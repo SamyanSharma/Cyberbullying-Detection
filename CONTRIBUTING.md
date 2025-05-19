@@ -30,13 +30,6 @@ We warmly welcome contributions to the Cyberbullying Detection project! By parti
 
 8.  **Submit a Pull Request (PR):** Go to your forked repository on GitHub and click the "Compare & pull request" button. Provide a clear and descriptive title and explanation of your changes in the PR.
 
-## Code Style
-
-[Optionally, link to a style guide or mention any specific formatting preferences.]
-
-## Testing
-
-[Optionally, describe how to run tests.]
 
 ## License
 
