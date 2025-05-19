@@ -40,7 +40,7 @@ We warmly welcome contributions to the Cyberbullying Detection project! By parti
 
 ## License
 
-By contributing to Cyberbullying Detection, you agree that your contributions will be licensed under the [Your Project's License](LICENSE).
+By contributing to Cyberbullying Detection, you agree that your contributions will be licensed under the [LICENSE](LICENSE).
 
 ## Code of Conduct
 
