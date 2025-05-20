@@ -4,8 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection/blob/main/LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection/blob/main/CONTRIBUTING.md)
 ![Machine Learning](https://img.shields.io/badge/Type-Machine_Learning-blue)
-![NLP](https://img.shields.io/badge/Focus-Natural_Language_Processing-green)
-![Python](https://img.shields.io/badge/Language-Python-red)
+![NLP](https://img.shields.io/badge/Focus-Natural_Language_Processing-brightgreen)
+![Python](https://img.shields.io/badge/Language-Python-blue)
 
 A ML Model for detecting toxic content in text using machine learning, achieving **81.28% accuracy** with Random Forest classification.
 
