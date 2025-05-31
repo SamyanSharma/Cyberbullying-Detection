@@ -57,13 +57,13 @@ The model detects six types of text content:
 - Confusion Matrix for error analysis.
 - AUC-ROC to evaluate model robustness.
 
-## Contributing 
+## 🤝 Contributing 
 We warmly welcome contributions to the Cyberbullying Detection project! Please checkout [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - Thanks to all contributors who have helped make this project possible
 - Special thanks to the open-source community for their invaluable tools and libraries
