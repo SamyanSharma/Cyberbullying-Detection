@@ -1,6 +1,6 @@
 # Cyberbullying Detection
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection)
+[![Project Status](https://img.shields.io/badge/Status-Complete-success.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection/blob/main/LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/Samyan1Sharma/Cyberbullying-Detection/blob/main/CONTRIBUTING.md)
 ![Machine Learning](https://img.shields.io/badge/Type-Machine_Learning-blue)
